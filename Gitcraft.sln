@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gitcraft", "Gitcraft\Gitcraft.csproj", "{14BF312F-6398-45B7-8BFD-D9C6C6283115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14BF312F-6398-45B7-8BFD-D9C6C6283115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BF312F-6398-45B7-8BFD-D9C6C6283115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BF312F-6398-45B7-8BFD-D9C6C6283115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BF312F-6398-45B7-8BFD-D9C6C6283115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
